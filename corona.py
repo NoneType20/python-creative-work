@@ -1,5 +1,6 @@
 #######################################################
 # 5분간격으로 corona-live.com(코로나 라이브) 에서 확진자 정보를 가져와 그래프 생성
+# 크롬드라이버 필수,,
 # select_time 다른 숫자로 바꿔 시간 조정 가능  , 60 = 5시간 ( 5분 * 61)
 select_time = 60
 from matplotlib import pyplot as plt
